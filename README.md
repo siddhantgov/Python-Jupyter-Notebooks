@@ -1,2 +1,2 @@
 # JupyterNotebooks
-My Compilation of Work in Python analysis on the JupyterNotebook platform
+My Compilation of Work in Python Analysis on the JupyterNotebook platform
